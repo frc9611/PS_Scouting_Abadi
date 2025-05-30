@@ -1,0 +1,32 @@
+[
+  {
+    "1": {
+      "NAME_A": "dcds",
+      "PTA_A": "23",
+      "PTT_A": "34",
+      "FR_A": "efdgfer",
+      "NAME_B": "dfvfv",
+      "PTA_B": "43543",
+      "PTT_B": "4234",
+      "FR_B": "efbeb",
+      "NAME_C": "bdsrb",
+      "PTA_C": "4234",
+      "PTT_C": "54435",
+      "FR_C": "bfgb"
+    },
+    "2": {
+      "NAME_A": "fgbrb",
+      "PTA_A": "45345",
+      "PTT_A": "34545",
+      "FR_A": "rbtrb",
+      "NAME_B": "rteb",
+      "PTA_B": "5345",
+      "PTT_B": "4354",
+      "FR_B": "gwertg",
+      "NAME_C": "etrbe",
+      "PTA_C": "534",
+      "PTT_C": "453",
+      "FR_C": "wetr"
+    }
+  }
+]
