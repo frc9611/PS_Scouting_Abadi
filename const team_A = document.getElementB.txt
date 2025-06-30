@@ -1,0 +1,71 @@
+const team_A = document.getElementById('team-A');
+const PTA_A = document.getElementById('PTA-A');
+const PTT_A = document.getElementById('PTT-A');
+const FR_A = document.getElementById('FR-A');
+const DS_A = document.getElementById('DS-A');
+
+const team_B = document.getElementById('team-B');
+const PTA_B = document.getElementById('PTA-B');
+const PTT_B = document.getElementById('PTT-B');
+const FR_B = document.getElementById('FR-B');
+const DS_B = document.getElementById('DS-B');
+
+const team_C = document.getElementById('team-C');
+const PTA_C = document.getElementById('PTA-C');
+const PTT_C = document.getElementById('PTT-C');
+const FR_C = document.getElementById('FR-C');
+const DS_C = document.getElementById('DS-C');
+
+const team_D = document.getElementById('team-D');
+const PTA_D = document.getElementById('PTA-D');
+const PTT_D = document.getElementById('PTT-D');
+const FR_D = document.getElementById('FR-D');
+const DS_D = document.getElementById('DS-D');
+
+const team_E = document.getElementById('team-E');
+const PTA_E = document.getElementById('PTA-E');
+const PTT_E = document.getElementById('PTT-E');
+const FR_E = document.getElementById('FR-E');
+const DS_E = document.getElementById('DS-E');
+
+const team_F = document.getElementById('team-F');
+const PTA_F = document.getElementById('PTA-F');
+const PTT_F = document.getElementById('PTT-F');
+const FR_F = document.getElementById('FR-F');
+const DS_F = document.getElementById('DS-F');
+
+team_A.value = "team - a";
+PTA_A.value = 2;
+PTT_A.value = 2;
+FR_A.value = "fr - a";
+DS_A.textContent = "ds - a";
+
+team_B.value = "team - b";
+PTA_B.value = 2;
+PTT_B.value = 2;
+FR_B.value = "fr - b";
+DS_B.textContent = "ds - b";
+
+team_C.value = "team - c";
+PTA_C.value = 3;
+PTT_C.value = 3;
+FR_C.value = "fr - c";
+DS_C.textContent = "ds - c";
+
+team_D.value = "team - d";
+PTA_D.value = 4;
+PTT_D.value = 4;
+FR_D.value = "fr - d";
+DS_D.textContent = "ds - d";
+
+team_E.value = "team - e";
+PTA_E.value = 5;
+PTT_E.value = 5;
+FR_E.value = "fr - e";
+DS_E.textContent = "ds - e";
+
+team_F.value = "team - f";
+PTA_F.value = 6;
+PTT_F.value = 6;
+FR_F.value = "fr - f";
+DS_F.textContent = "ds - f";
